@@ -1,4 +1,4 @@
-# OpenSourceWuhan ---> [Open Source COVID-19](https://weileizeng.github.io/Open-Source-COVID-19/)
+# OpenSourceWuhan ---> [Open Source COVID-19](https://github.com/WeileiZeng/Open-Source-COVID-19)
 
 As of March 7, I changed the name from OpenSourceWuhan to Open Source COVID-19. You can visit the [new repo](https://weileizeng.github.io/Open-Source-COVID-19/) and the [new website](https://github.com/WeileiZeng/Open-Source-COVID-19). The original website still works, but will be redirect to the new one.
 
